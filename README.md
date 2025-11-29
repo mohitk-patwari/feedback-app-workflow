@@ -78,5 +78,17 @@ Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/c
 readme change by owner
 
 
+<<<<<<< HEAD
+## Database Schema
+{
+  "name": "string",
+  "email": "string",
+  "message": "string",
+  "timestamp": "serverTimestamp"
+}
+this change is created by student 2
+
+=======
 ## App Overview
 This is edited by Student 1 to purposely cause a merge conflict.
+>>>>>>> 70aa04f7e98231f415f6b817df5e05a463cedba9
